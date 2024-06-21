@@ -19,6 +19,8 @@ git checkout {your_name}
 git add .
 git commit -m {your_name} 프로그래머스 문제 풀이 {current_date} # "이범수 프로그래머스 문제풀이 6/21
 git push --set-upstream origin {your_name}
+git checkout main
+git pull
 ```
 
 ## 브런치 지우기
